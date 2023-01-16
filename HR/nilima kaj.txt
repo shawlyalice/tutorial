@@ -1,0 +1,14 @@
+1. Introduction e last e ektu summmary dite hbe like model gulo er result and konta valo kaj korse
+2. 4 no 5 no er related work thik hoi ni ... ek jon author er name likhe et. all[ref] dite hobe tar author suggested that
+3. dataset e 4 tar pic dite hbe
+
+
+4. Convlstm er flowchart kete dish
+
+ar conclusion ew last e ektu summmary dite hbe
+
+Model ar result diye
+
+methodology 1, 2, 3, no ta dish
+
+methodology er por ektu kotha likhte hbe
